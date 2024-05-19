@@ -1,0 +1,6 @@
+admin, adminUser, Nic Angelo Ureta, 9000, Higher Realm
+user, user12345, Nomer John Casinio, 19, Konoha
+mark, aportadera123, Reymark Aportadera, 19, Konoha
+renz, percy123, Renz Percy, 19, Konoha
+rhizza, almerante123, Rhizza Almirante, 20, Konoha
+mary, cubos123, Mary Grace Cubos, 21, Konoha
